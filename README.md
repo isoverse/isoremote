@@ -1,4 +1,3 @@
 # isoremote
-simple data base storage for isoreader objects
 
-coming soon...
+data base connections for isoverse functionality
